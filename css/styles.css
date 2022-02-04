@@ -3,3 +3,15 @@
 /* section {
     background-image: url(../img/browser-website.svg);
 } */
+
+.flex-container {
+    display: flex;
+}
+
+svg {
+    fill: rgb(129, 203, 17);
+}
+
+svg:hover {
+    fill: forestgreen;
+}
